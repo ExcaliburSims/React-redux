@@ -28,7 +28,7 @@ const Form = () => {
         <h3>Enregistrer une nouvelle photo</h3>
         <form onSubmit={(e) => handleSubmit(e)} ref={formRef}>
           <input type="text" placeholder="Artiste" ref={inputArt} />
-          <input type="text" placeholder="Année" ref={inputYear} />
+          <input type="text" placeholder="Année sortie" ref={inputYear} />
           <input type="submit" value="Envoyer" />
         </form>
       </div>
