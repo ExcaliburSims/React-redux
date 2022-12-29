@@ -48,6 +48,12 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "sims",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/313",
+      "id": 10
     }
   ]
 }
